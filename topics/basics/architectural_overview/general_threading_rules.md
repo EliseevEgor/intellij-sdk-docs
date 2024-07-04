@@ -19,7 +19,7 @@ In general, code-related data structures in the IntelliJ Platform are covered by
 Access to the model must be performed in a read or write action for the following subsystems:
 
 - [](psi.md)
-- [Virtual File System (VFS)](virtual_file_system.md)
+- [Virtual File System](virtual_file_system.md) (VFS)
 - [Project root model](project_structure.md)
 
 > Threading model has changed in 2023.3, make sure to select the correct version in the tabs below.
